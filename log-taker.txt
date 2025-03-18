@@ -1848,3 +1848,12 @@
 3/18/2025 | 8:16:31 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/18/2025 | 8:16:31 AM | INFO | Trying to activate mining on-chain for wallet: 0xe3d5EA02E65F90cbb9e06731F5C559dE6B05db6f 
 3/18/2025 | 8:16:37 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xfe2cfbd1ceacd86448b5d01c001efb7d6b565268df0001b741c075679be3c1eb 
+3/18/2025 | 12:23:48 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/18/2025 | 12:23:48 PM | INFO | Start process for wallet 0xe3d5EA02E65F90cbb9e06731F5C559dE6B05db6f 
+3/18/2025 | 12:23:49 PM | INFO | Trying To Login for wallet: 0xe3d5EA02E65F90cbb9e06731F5C559dE6B05db6f 
+3/18/2025 | 12:23:49 PM | INFO | Login successful... 
+3/18/2025 | 12:23:49 PM | INFO | Trying to check user info... 
+3/18/2025 | 12:23:50 PM | INFO | User ID: 102944024 | Twitter: @nazilakairani | Total Points: 696000 
+3/18/2025 | 12:23:50 PM | INFO | Trying to check user miner status... 
+3/18/2025 | 12:23:51 PM | INFO | Last mining time: 3/18/2025, 8:16:36 AM
+3/18/2025 | 12:23:51 PM | WARN | Mining already started, next mining time is: 3/19/2025, 8:16:36 AM
