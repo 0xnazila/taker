@@ -3583,3 +3583,15 @@
 4/17/2025 | 8:13:49 PM | INFO | Trying to activate mining on-chain for wallet: 0xe3d5EA02E65F90cbb9e06731F5C559dE6B05db6f 
 4/17/2025 | 8:13:49 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:13:49 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 1:00:11 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 1:00:11 AM | INFO | Start process for wallet 0xe3d5EA02E65F90cbb9e06731F5C559dE6B05db6f 
+4/18/2025 | 1:00:12 AM | INFO | Trying To Login for wallet: 0xe3d5EA02E65F90cbb9e06731F5C559dE6B05db6f 
+4/18/2025 | 1:00:13 AM | INFO | Login successful... 
+4/18/2025 | 1:00:13 AM | INFO | Trying to check user info... 
+4/18/2025 | 1:00:13 AM | INFO | User ID: 102944024 | Twitter: @nazilakairani | Total Points: 1344000 
+4/18/2025 | 1:00:13 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 1:00:14 AM | INFO | Last mining time: 4/16/2025, 12:25:06 PM
+4/18/2025 | 1:00:14 AM | INFO | Trying to start Mining for wallet: 0xe3d5EA02E65F90cbb9e06731F5C559dE6B05db6f 
+4/18/2025 | 1:00:15 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+4/18/2025 | 1:00:15 AM | INFO | Trying to activate mining on-chain for wallet: 0xe3d5EA02E65F90cbb9e06731F5C559dE6B05db6f 
+4/18/2025 | 1:00:29 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x478758eec890c9c13a2f46595144fe53a7298f29dc5486f1fe7c16c21fa6e638 
